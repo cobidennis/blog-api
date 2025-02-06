@@ -142,3 +142,4 @@ php artisan test
 | `DELETE` | `/api/posts/{slug}` | Delete post (auth required) |
 
 ---
+There is a Postman collection export for API testing at `blog-backend\public\Blog REST- AUTH, CRUD, & variable.postman_collection.json`
